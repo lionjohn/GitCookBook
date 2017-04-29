@@ -17,7 +17,5 @@
     * [Git笔记一](chapter3/section1.md)
     * [Git笔记二](chapter3/section2.md)
     * [Git多账号多秘钥使用教程](chapter3/section3.md)
-    * [iOS常用代码块整理](chapter3/section4.md)
-    * [iOS 方法代码块的创建和使用](chapter3/section5.md)
 * [结束](end/README.md)
 
