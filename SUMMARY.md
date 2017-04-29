@@ -11,6 +11,7 @@
         * [切换分支](chapter2/section1/2.md)
         * [合并分支](chapter2/section1/3.md)
         * [Git Subtree和Submodule的使用](chapter2/section1/4.md)
+        * [Git Subtree 的介绍及使用](chapter2/section1/5.md)
     * [标签](chapter2/section2.md)
 * [Git笔记](chapter3/README.md)
     * [Git笔记一](chapter3/section1.md)
