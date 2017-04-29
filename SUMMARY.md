@@ -13,8 +13,9 @@
         * [Git Subtree和Submodule的使用](chapter2/section1/4.md)
         * [Git Subtree 的介绍及使用](chapter2/section1/5.md)
     * [标签](chapter2/section2.md)
-* [Git笔记](chapter3/README.md)
+* [Git技术笔记](chapter3/README.md)
     * [Git笔记一](chapter3/section1.md)
     * [Git笔记二](chapter3/section2.md)
+    * [Git多账号多秘钥使用教程](chapter3/section3.md)
 * [结束](end/README.md)
 
